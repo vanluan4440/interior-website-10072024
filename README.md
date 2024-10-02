@@ -80,7 +80,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
    https://www.php.net/downloads
 
 3. Clone project
-   https://github.com/vanluan4440/project-29092024
+   https://github.com/vanluan4440/interior-website-10072024
 
 4. Move CMD to folder and run command line:
     1. npm install
