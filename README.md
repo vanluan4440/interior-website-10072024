@@ -70,3 +70,21 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 -   docker-compose build
 -   docker-compose up -d
     => App run : http://localhost:8000
+
+## Setup source code
+
+1. Download && Install Nodejs
+   https://nodejs.org/en/download/prebuilt-installer
+
+2. Download && Install PHP
+   https://www.php.net/downloads
+
+3. Clone project
+   https://github.com/vanluan4440/project-29092024
+
+4. Move CMD to folder and run command line:
+    1. npm install
+    2. composer install
+5. Success setup project
+
+----------------Happy coding -----------

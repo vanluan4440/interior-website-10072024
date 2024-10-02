@@ -5,7 +5,7 @@
                 <div class="card">
                     <div class="card-header">Example Component</div>
 
-                    <div class="card-body">I'm an example component 1.</div>
+                    <div class="card-body">I'm an example component 12222.</div>
                 </div>
             </div>
         </div>
